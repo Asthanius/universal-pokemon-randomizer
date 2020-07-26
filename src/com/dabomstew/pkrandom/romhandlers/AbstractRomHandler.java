@@ -3712,8 +3712,8 @@ public abstract class AbstractRomHandler implements RomHandler {
 
     @Override
     public List<Integer> getGameBreakingMoves() {
-        // Sonicboom & drage
-        return Arrays.asList(49, 82);
+        // Sonicboom & drage & now destiny bond
+        return Arrays.asList(49, 82, 194);
     }
 
     @Override
